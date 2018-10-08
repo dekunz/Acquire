@@ -7,9 +7,9 @@
 
 ## General Introduction
 
-(States your motivation clearly: why is it important / interesting to solve this problem?)
-(Add real-world examples, if any)
-(Put the problem into a historical context, from what does it originate? Are there already some proposed solutions?)
+%(States your motivation clearly: why is it important / interesting to solve this problem?)
+%(Add real-world examples, if any)
+%(Put the problem into a historical context, from what does it originate? Are there already some proposed solutions?)
 
 ## The Model
 
