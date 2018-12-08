@@ -2,7 +2,7 @@
 
 > * Group Name: Patriots
 > * Group participants names: Philipp Binkert, Dennis Kunz
-> * Project Title:
+> * Project Title: Acquire
 > * Programming language: Python
 
 ## General Introduction
