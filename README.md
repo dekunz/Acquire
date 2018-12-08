@@ -19,11 +19,7 @@ One of our main objectives was the determine whether or not a conservative strat
 
 ## References 
 
-
 ## Research Methods
-
-
-## Other
 
 
 # Reproducibility
