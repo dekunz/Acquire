@@ -19,4 +19,8 @@ Our prediction is that the offensive player should score more victories than the
 
 
 # Reproducibility
+## Light Test
+In the light test you will get results of comparing two types of players. To get the statistics you have to open the program "Statistics_program.py". In lines 6236-6239 you can choose which players should play against each other by changing their name. The different options are $Player\_normal$, $Player\_entrepreneur$, $Player\_small\_hotels$, $Player\_large\_hotels$, $Player\_conservative$ and $Player\_offensive$.
+
+## Full Test
 
