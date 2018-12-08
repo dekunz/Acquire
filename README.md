@@ -18,6 +18,7 @@ One of our main objectives was the determine whether or not a conservative strat
 ## Expected Results
 
 ## References 
+[1] Complete set of rules: \url{https://www.wizards.com/avalonhill/rules/acquire.pdf}
 
 ## Research Methods
 
