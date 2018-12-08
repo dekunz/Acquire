@@ -20,7 +20,9 @@ Our prediction is that the offensive player should score more victories than the
 
 # Reproducibility
 ## Light Test
-In the light test you will get results of comparing two types of players. To get the statistics you have to open the program "Statistics_program.py". In lines 6236-6239 you can choose which players should play against each other by changing their name. The different options are Player\_normal, Player\_entrepreneur, Player\_small\_hotels, Player\_large\_hotels, Player\_conservative and Player\_offensive. You can compare the resulting figures with the figures in section 5 of our report. 
+In the light test you will get results of comparing two types of players. To get the statistics you have to open the program "Statistics_program.py". In lines 6236-6239 you can choose which players should play against each other by changing their name. The different options are Player\_normal, Player\_entrepreneur, Player\_small\_hotels, Player\_large\_hotels, Player\_conservative and Player\_offensive. You can compare the resulting plots with the figures in section 5 of our report. 
 
 ## Full Test
+To reproduce our results comparing different strategies you have to open the program "Evaluation_program.py" and in lines 6236-6239 change the names of the players. This will give you the figures used in section 5, including mean value and standard deviation which are produced in the light test.
+For the adapting player, simply open "Adaption_program.py" and let it run. This will output the optimized variables as well as a plot of the adapting vs the normal player. Caution: This program runs for about 25 minutes.
 
