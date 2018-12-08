@@ -2,7 +2,7 @@
 
 > * Group Name: Patriots
 > * Group participants names: Philipp Binkert, Dennis Kunz
-> * Project Title: Acquire
+> * Project Title: Acquire: Simulation of an investment game using Python
 > * Programming language: Python
 
 ## General Introduction
